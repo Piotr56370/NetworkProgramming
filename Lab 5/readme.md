@@ -165,7 +165,3 @@ switch (command){
 out.writeUTF(response);
 ~~~
 
-## Screenshot
-
-![](img/Capture1.PNG)
-
